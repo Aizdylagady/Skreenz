@@ -1,0 +1,9 @@
+Django
+Pillow
+Psycopg2-binary
+Braintree
+Celery
+Django-crispy-forms
+Django-allauth
+Python-decouple
+Easy-thumbnails
